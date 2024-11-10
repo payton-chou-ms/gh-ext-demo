@@ -2,7 +2,7 @@
 only use for GitHub copilot extension demo usage
 
 # Reference:
-- **Building Your First Extension** (GitHub Resources)
+- [**Building Your First Extension**](https://resources.github.com/learn/pathways/copilot/extensions/building-your-first-extension/)
 
 # Code Repository:
 - **GitHub Repository**: [gh-ext-demo](https://github.com/payton-chou-ms/gh-ext-demo)
